@@ -1,2 +1,3 @@
-# Azure-Networking-Cookbook-Second-Edition
-Azure-Networking-Cookbook-Second-Edition
+# AZ 700 notes
+
+Based on Packt's Azure-Networking-Cookbook-Second-Edition Powershell scripts.
